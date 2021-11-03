@@ -1,0 +1,136 @@
+{
+	"status": "ok",
+	"totalResults": 10,
+	"articles": [
+		{
+			"source": {
+				"id": "bbc-news",
+				"name": "BBC News"
+			},
+			"author": "BBC News",
+			"title": "Ethiopia's Tigray crisis: PM Abiy calls on citizens to take up arms against rebels",
+			"description": "Abiy Ahmed says advancing Tigray People's Liberation Front are \"pushing the country to its demise.\"",
+			"url": "http://www.bbc.co.uk/news/world-africa-59118773",
+			"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/149FF/production/_121297448_gettyimages-1235262049.jpg",
+			"publishedAt": "2021-11-01T12:37:23.7732682Z",
+			"content": "Image source, Getty Images\r\nImage caption, Prime Minister Abiy Ahmed told citizens to arm themselves with \"every weapon\"\r\nEthiopia's Prime Minister, Abiy Ahmed, has appealed to citizens to take up ar… [+2340 chars]"
+		},
+		{
+			"source": {
+				"id": "bbc-news",
+				"name": "BBC News"
+			},
+			"author": "BBC News",
+			"title": "Covid-19: Single case shuts down Shanghai Disneyland",
+			"description": "The Chinese theme park closes for at lest two days after a visitor tests positive.",
+			"url": "http://www.bbc.co.uk/news/world-asia-china-59119621",
+			"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4B00/production/_121300291_mediaitem121300290.jpg",
+			"publishedAt": "2021-11-01T12:22:20.57355Z",
+			"content": "Image caption, Visitors being tested at Disneyland in Shanghai\r\nShanghai Disneyland has shut down for at least two days after a weekend visitor tested positive for Covid-19 after returning home.\r\nThe… [+1132 chars]"
+		},
+		{
+			"source": {
+				"id": "bbc-news",
+				"name": "BBC News"
+			},
+			"author": "BBC News",
+			"title": "Japanese man in Joker costume injures 17 in knife attack on Tokyo train",
+			"description": "Video footage shows passengers desperately running from fire and the man who was wielding a knife.",
+			"url": "http://www.bbc.co.uk/news/world-asia-59103664",
+			"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/15FDF/production/_121297009_de27-1.jpg",
+			"publishedAt": "2021-11-01T11:07:29.4552653Z",
+			"content": "Media caption, Video shows the moment train passengers flee Tokyo attack\r\nA 24-year-old man wearing a Joker costume attacked passengers on a Tokyo train line on Sunday evening. \r\nAs many as 17 people… [+2485 chars]"
+		},
+		{
+			"source": {
+				"id": "bbc-news",
+				"name": "BBC News"
+			},
+			"author": "BBC News",
+			"title": "Three women, one cheating ex and an adventure",
+			"description": "Bekah, Abi and Morgan became friends after discovering they were all dating the same man.",
+			"url": "http://www.bbc.co.uk/news/world-us-canada-59093224",
+			"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/17634/production/_121269759_p0b14wlx.jpg",
+			"publishedAt": "2021-11-01T11:07:25.6280931Z",
+			"content": "A group of women have become social media stars after discovering they were dating the same man. \r\nWhen the trio found they shared a boyfriend, they soon dumped him and discovered he was not the only… [+544 chars]"
+		},
+		{
+			"source": {
+				"id": "bbc-news",
+				"name": "BBC News"
+			},
+			"author": "BBC News",
+			"title": "Real life Succession battle plagues Canada's largest telecoms firm",
+			"description": "A bitter power struggle at Rogers Communications has gone from 'Succession' to 'Game of Thrones'.",
+			"url": "http://www.bbc.co.uk/news/world-us-canada-59054146",
+			"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/DAC4/production/_121240065_rogersmainsmall.png",
+			"publishedAt": "2021-11-01T11:07:19.4343088Z",
+			"content": "By Holly HonderichBBC News, Washington\r\nImage source, Getty Images/BBC\r\nImage caption, A family power struggle has split Edward Rogers from his mother and sister\r\nThe family at the helm of Canada's l… [+10455 chars]"
+		},
+		{
+			"source": {
+				"id": "bbc-news",
+				"name": "BBC News"
+			},
+			"author": "BBC News",
+			"title": "Barclays boss Jes Staley steps down over Epstein inquiry",
+			"description": "Jes Staley is leaving the bank following an investigation into his links to sex offender Jeffrey Epstein.",
+			"url": "http://www.bbc.co.uk/news/business-59117084",
+			"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/24A3/production/_121297390_staley.jpg",
+			"publishedAt": "2021-11-01T07:52:21.7035238Z",
+			"content": "Image source, Getty Images\r\nBarclays chief executive Jes Staley has stepped down following an investigation into how he described his relationship with sex offender Jeffrey Epstein. \r\nThe UK financia… [+940 chars]"
+		},
+		{
+			"source": {
+				"id": "bbc-news",
+				"name": "BBC News"
+			},
+			"author": "BBC News",
+			"title": "COP26: World leaders need to act on climate change - Boris Johnson",
+			"description": "As world leaders gather for COP26 in Glasgow, Prime Minister Boris Johnson says action is needed.",
+			"url": "http://www.bbc.co.uk/news/uk-59114871",
+			"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/630F/production/_121295352_de40.jpg",
+			"publishedAt": "2021-11-01T06:07:20.7740254Z",
+			"content": "By Justin Rowlattclimate editor\r\nMedia caption, PM confirms he is not in favour of new UK coal mine\r\nThe world is at \"one minute to midnight\", having run down the clock on waiting to combat climate c… [+4438 chars]"
+		},
+		{
+			"source": {
+				"id": "bbc-news",
+				"name": "BBC News"
+			},
+			"author": "BBC News",
+			"title": "Joyful reunions as Australia's border opens",
+			"description": "International travellers hug loved ones at Sydney Airport for the first time in 20 months.",
+			"url": "http://www.bbc.co.uk/news/world-australia-59115079",
+			"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5059/production/_121296502_p0b1gx0p.jpg",
+			"publishedAt": "2021-11-01T05:22:19.6541165Z",
+			"content": "Australia's border has reopened for the first time in 20 months, sparking emotional reunions to Sydney Airport.\r\nOnly Australians are allowed into the country for now.\r\nRead more about Australia's re… [+13 chars]"
+		},
+		{
+			"source": {
+				"id": "bbc-news",
+				"name": "BBC News"
+			},
+			"author": "BBC News",
+			"title": "New Zealand bat flies away with bird of the year award",
+			"description": "The win, seen by some as a much-needed PR victory for bats, has ruffled feathers among bird-lovers.",
+			"url": "http://www.bbc.co.uk/news/world-asia-59115346",
+			"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/14CB1/production/_121296158_uih2fvv0.jpg",
+			"publishedAt": "2021-11-01T04:52:27.0860031Z",
+			"content": "Image source, Ian Davidson-Watts\r\nImage caption, The long-tailed bat is about the size of a thumb\r\nA bat has been named as New Zealand's bird of the year, in a controversial move that has ruffled fea… [+1961 chars]"
+		},
+		{
+			"source": {
+				"id": "bbc-news",
+				"name": "BBC News"
+			},
+			"author": "BBC News",
+			"title": "Aukus: French president says Australian PM lied over submarine deal",
+			"description": "Asked if Australia's leader was untruthful, France's president responds: \"I don't think, I know.\"",
+			"url": "http://www.bbc.co.uk/news/world-59113710",
+			"urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/98F7/production/_121295193_morrisonmacrongetty.jpg",
+			"publishedAt": "2021-10-31T23:22:23.6024417Z",
+			"content": "Image source, Getty Images\r\nImage caption, Emmanuel Macron with Scott Morrison at the Elysee Palace in Paris in June\r\nFrench President Emmanuel Macron has said Australia's PM Scott Morrison lied to h… [+2401 chars]"
+		}
+	]
+}
