@@ -47,7 +47,7 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
         .json::<BBCJSON>()
         .await?;
 
-    println!("{:?}", bbc_json.status);
+    println!("Hello {:?}", bbc_json.status);
     Ok(())
 }
 
