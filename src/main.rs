@@ -47,7 +47,12 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
         .json::<BBCJSON>()
         .await?;
 
-    println!("Hello {:?}", bbc_json.status);
+    let articles = bbc_json.articles;
+    for article in articles.iter() {
+        println!("Title: {:?}", article.title);
+        println!("Description: {:?}", article.description);
+        println!("Link: {:?}", article.url);
+    }
     Ok(())
 }
 
